@@ -1,6 +1,5 @@
 # BetterEXP
 Providing You a Professional Discord Bot With BetterEXP What Are You Waiting
-Use BetterEXP
 
 Discord - https://discord.gg/uvjA3uzwF6
 
